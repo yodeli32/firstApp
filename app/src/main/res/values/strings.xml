@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App Not Really</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="intro_message">My name is Yodeli Castillo. \nI am a Senior Information Technology major and\n I graduate in December!</string>
+    <string name="fav_verse">\"I keep my eyes always on the Lord. \nWith him at my right hand, I will not be shaken.\nPsalm 16:8\"</string>
+</resources>
